@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jainsaaab
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning rust and springboot.
+- 🌱 I’m currently learning springboot and react.
 - 📫 How to reach me email - jain.aditya684@gmail.com
 
 <!---
