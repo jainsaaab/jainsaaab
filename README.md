@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jainsaaab
-- 👀 I’m interested in backend of fullstack development.
+- 👀 I’m interested in backend or fullstack development.
 - 🌱 I’m currently learning springboot and react.
 - 📫 How to reach me email - jain.aditya684@gmail.com
 
